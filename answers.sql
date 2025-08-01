@@ -14,6 +14,7 @@ LIMIT 5;
 
 -- Question 2: Find the average credit limit of each customer, 
 -- display customer name, country, and average credit limit, grouped by customer name and country.
+
 SELECT 
     customer_name, 
     country, 
